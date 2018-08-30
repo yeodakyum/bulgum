@@ -1,2 +1,2 @@
 #this is main code.
-print("hello_world")
+print("mercy IS god")
